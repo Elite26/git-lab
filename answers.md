@@ -67,4 +67,22 @@ Untracked files:
         answers.md.save.1
 
 nothing added to commit but untracked files present (use "git add" to track)
-answer 10 - 
+answer 10 - it has not updated in local.
+answer 11 - fatal: The upstream branch of your current branch does not match
+the name of your current branch.  To push to the upstream branch
+on the remote, use
+
+    git push origin HEAD:main
+
+To push to the branch of the same name on the remote, use
+
+    git push origin HEAD
+
+To choose either option permanently, see push.default in 'git help config'.
+
+To avoid automatically configuring an upstream branch when its name
+won't match the local branch, see option 'simple' of branch.autoSetupMerge
+in 'git help config'.
+answer 12 - they were reflected
+answer 13 - .  ..  .git  .gitignore
+answer 14 - 
